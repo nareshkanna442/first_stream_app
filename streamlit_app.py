@@ -8,4 +8,5 @@ streamlit.text('🥣Omega 3 & Blueberry Oatmeal')
 streamlit.text('🥗Kale, Spinach & Rocket smoothie')
 streamlit.text('🐔Hard-boiled Free-range Egg')
 streamlit.text('🥑🍞 Avacaddo Toast')
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 
